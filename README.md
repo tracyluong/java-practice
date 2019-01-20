@@ -1,2 +1,2 @@
-# java-practice
-Practice for Java programming
+# Java Practice
+Repository gathers codes written while practicing Java
